@@ -1,0 +1,11 @@
+ body
+{
+  height: 100%;
+  margin: 0;
+  background-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9IuV142ja8xGcDWgKXCQOQFNvNKhkzgWTnULJuWAddU7q-DXrJwD4gE_JE-E1lGuoQ7s&usqp=CAU";
+}
+#login_button
+{
+	width: 54%;
+  border-radius: 15px;
+}
